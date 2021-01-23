@@ -26,6 +26,12 @@
 
 <br/>
 
+## Preview
+
+<div>
+    <img src="./assets/AddRemindersGif.gif" alt="Add reminder" width="800px">
+</div>
+
 <br/>
 
 ## 📎 Features
