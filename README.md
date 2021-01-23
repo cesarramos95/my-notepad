@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+<h1 align="center"> 📝 My notepad 📝 </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  Application to write reminders.
+</div>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+![GitHub language count](https://img.shields.io/github/languages/count/cesarramos95/my-notepad)
+![GitHub last commit](https://img.shields.io/github/last-commit/cesarramos95/my-notepad)
+![GitHub repo size](https://img.shields.io/github/repo-size/cesarramos95/my-notepad?color=orange)
+![GitHub](https://img.shields.io/github/license/cesarramos95/my-notepad)
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+ <a href="#about">About</a> |
+ <a href="#techs">Tecnologies</a> |
+ <a href="#requirements">Requirements</a> |
+ <a href="#run">How to run</a> |
+ <a href="#license">License</a> |
+ <a href="#autor">Autor</a>
+</p>
 
-### `npm test`
+<br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br/>
 
-### `npm run build`
+## 📎 Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [x] Write new reminders
+- [x] List reminder cards
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div id="about">
 
-### `npm run eject`
+## About
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This is a simple application built in React to reinforce the basic concepts of this framework.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<div id="techs">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🛠 Technologies
+The following technologie is used:
+- [React JS](https://pt-br.reactjs.org/)
 
-## Learn More
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div id="run">
 
-### Code Splitting
+## ℹ How to run
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Requirements
+Before to start, you will need to install the following tools:
 
-### Analyzing the Bundle Size
+- [React JS](https://pt-br.reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Git](https://git-scm.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Clone the repository and install the dependencies:
 
-### Making a Progressive Web App
+```bash
+# Cloning repository
+$ git clone https://github.com/cesarramos95/my-notepad
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Acess the folder
+$ cd my-notepad
 
-### Advanced Configuration
+# Installing dependencies
+$ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Running server
+$ npm start
+```
 
-### Deployment
+<div id="license">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 📝 License
+This repository is under [MIT](./LICENSE) license.
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div id="autor">
+
+## Autor
+
+<img src="https://avatars0.githubusercontent.com/u/41995703?s=460&u=e79d6900cae07be99d738d5388709b275f752356&v=4" width="100px" >
+<br>
+<a href="t.me/cesarramos95">César</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-César-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesararamos/)](https://www.linkedin.com/in/cesararamos/)
+[![Gmail Badge](https://img.shields.io/badge/-cesarramos.aug@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesarramos.aug@gmail.com)](mailto:cesarramos.aug@gmail.com)
+
+</div>
+
+---
+
+Made with ❤ by César 👋 [Get in touch!](https://linkedin.com/in/cesararamos)
+
